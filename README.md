@@ -27,3 +27,7 @@ Open "EzBackupUI.exe" (or the one build without "AUTOSTART" defined) and add bac
   - there you can press it and change the Name and Paths 
 
 - to backup, press Backup All
+
+# Credits
+
+https://github.com/onurae/gui-app-template.git (used as tempelate)
