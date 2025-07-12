@@ -1,7 +1,7 @@
 # EzBackup
 An easy way to create backups of your directories.
 
-#Instalation
+# Installation
 
 there are two options:
 1. Download the repro and use it with Visual Studio
@@ -11,7 +11,7 @@ there are two options:
    
 2. Download the prebuild Binaries(Win 64bit only, tested on Win10 64bit)
 
-#Usage
+# Usage
 
 Open "EzBackupUI.exe" (or the one build without "AUTOSTART" defined) and add backup paths like so:
 - Press "Add Backup" button
