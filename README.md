@@ -30,4 +30,4 @@ Open "EzBackupUI.exe" (or the one build without "AUTOSTART" defined) and add bac
 
 # Credits
 
-https://github.com/onurae/gui-app-template.git (used as tempelate)
+https://github.com/onurae/gui-app-template.git (used as template)
