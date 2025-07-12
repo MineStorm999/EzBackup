@@ -13,7 +13,7 @@ there are two options:
 
 # Usage
 
-Open "EzBackupUI.exe" (or the one build without "AUTOSTART" defined) and add backup paths like so:
+Open "EzBackupUI.exe" (or the one build without "AUTOSTART" defined) and add backup paths like this:
 - Press "Add Backup" button
 - A window called "Add Backup" should open
 - There You can spezifie:
